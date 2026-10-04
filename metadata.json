@@ -1,0 +1,6 @@
+{
+  "name": "LittleSeed Plants",
+  "description": "E-commerce tanaman hias & komunitas berkebun dengan kuis Plant Finder personal, status bar kelembapan & cahaya, serta panduan Digital Care Card otomatis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
